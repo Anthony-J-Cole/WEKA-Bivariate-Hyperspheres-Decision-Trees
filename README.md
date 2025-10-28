@@ -16,7 +16,9 @@ In WEKA configure weka.classifiers.trees.ClassificationTree ensuring bivariate i
 
 Boundry Visualiser Example:
 C4.5 (Standard Decision Tree Example)
-![Example_1](Images/Boundry_Vis_C4.5.png)
 
+![Example_1](Images/Boundry_Vis_C4.5.png)
+---
 This algorithm:
+
 ![Example_2](Images/Boundry_Vis_Circular.png)
