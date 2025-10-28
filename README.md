@@ -14,7 +14,7 @@ To run: `weka.ps1` (Windows) or `weka.sh` (Unix-like)
 
 In WEKA configure weka.classifiers.trees.ClassificationTree ensuring bivariate is set to true
 
-Boundry Visualiser Example:
+Boundry Visualiser Examples, both on the iris dataset:
 C4.5 (Standard Decision Tree Example)
 
 ![Example_1](Images/Boundry_Vis_C4.5.png)
